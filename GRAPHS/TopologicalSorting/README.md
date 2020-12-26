@@ -34,7 +34,7 @@ Here explaination with indenatations: https://drive.google.com/drive/folders/1Ty
 
 BUILD Order
 
-TIME COMPLEXITY  ->  O(V+D) --> V is number of vertices, D is number of dependency pair
+TIME COMPLEXITY  ->  O(V+E) --> V is number of vertices, E is number of dependency pair (It is just modified DFS)
 
 #Solution1
 
